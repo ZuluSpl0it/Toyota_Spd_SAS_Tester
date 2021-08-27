@@ -14,6 +14,9 @@ The switches select between mode of operation (Angle or Speed) and SAS precision
 
 Low and High precision refer to either 1.5 degree or 0.1 degree resolution from the SAS.
 
+## Bluepill pinout
+![bluepin pinout](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/bluepill_pinout.jpg)
+
 ## Here are the results of my testing:
 
 Part# | Precision
@@ -79,3 +82,11 @@ Visually, it looks like this:
 Then following table is a parital listing of the final calculated Steer Angle:
 
 ![Steer Angle Calculation Table](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/master/images/Value_Table.jpg)
+
+The 89245-02080 sensor passes both high and low tests:
+![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/angle_high_good.jpg)
+![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/angle_low_good2.jpg)
+
+However, the other sensors fail the high precision test, while passing the low precision test:
+![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/angle_high_bad2.jpg)
+![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/angle_low_good.jpg)
