@@ -84,7 +84,7 @@ Then following table is a parital listing of the final calculated Steer Angle:
 ![Steer Angle Calculation Table](Value_Table.jpg)
 
 The 89245-02080 sensor passes both high and low tests:
-![High Test](..\images\angle_high_good.jpg)
+![High Test](../images/angle_high_good.jpg)
 ![Low Test](images\angle_low_good2.jpg)
 
 However, the other sensors fail the high precision test, while passing the low precision test:
