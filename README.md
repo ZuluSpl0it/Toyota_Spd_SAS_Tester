@@ -81,7 +81,7 @@ Visually, it looks like this:
 
 Then following table is a parital listing of the final calculated Steer Angle:
 
-![Steer Angle Calculation Table](images\Value_Table.jpg)
+![Steer Angle Calculation Table](Value_Table.jpg)
 
 The 89245-02080 sensor passes both high and low tests:
 ![High Test](images\angle_high_good.jpg)
