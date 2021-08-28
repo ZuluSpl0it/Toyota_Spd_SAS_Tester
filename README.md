@@ -93,6 +93,7 @@ However, the other sensors fail the high precision test, while passing the low p
 ![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_high_bad2.jpg)  
 ![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_low_good.jpg)  
 
-The reason for this is because the low pricision sensors do not have the Steer Fraction at all in their CAN messages, Instead that byte is used for other data:  
+The reason for this is because the low precision sensors do not have the Steer Fraction at all in their CAN messages, Instead that byte is used for other data:  
 
-![Older Sensor](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/master/images/other_message_format.jpg) 
+![Older Sensor](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/master/images/other_message_format.jpg)  
+from: Adventures in Automotive Networks and Control Units (page 93) By Dr. Charlie Miller & Chris Valasek
