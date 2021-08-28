@@ -79,7 +79,7 @@ Visually, it looks like this:
        └-- STEER_RATE                  Note: factor is tbd
 ````
 
-Then following table is a parital listing of the final calculated Steer Angle:
+Then following table is a parital listing of the final calculated Steering Angle:
 
 ![Steer Angle Calculation Table](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/Value_Table.jpg)
 
