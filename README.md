@@ -83,10 +83,12 @@ Then following table is a parital listing of the final calculated Steer Angle:
 
 ![Steer Angle Calculation Table](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/2a8fb83629f6e887d10cb9ac5db400b4c211e8c6/images/Value_Table.jpg)
 
-The 89245-02080 sensor passes both high and low tests:
-![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_high_good.jpg)
-![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_low_good2.jpg)
+The 89245-02080 sensor passes both high and low tests:  
 
-However, the other sensors fail the high precision test, while passing the low precision test:
-![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_high_bad2.jpg)
-![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_low_good.jpg)
+![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_high_good.jpg)  
+![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_low_good2.jpg)  
+
+However, the other sensors fail the high precision test, while passing the low precision test:  
+
+![High Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_high_bad2.jpg)  
+![Low Test](https://github.com/ZuluSpl0it/Toyota_Spd_SAS_Tester/blob/43abf7e65f18e23d9a98ca571faac3835bc93f86/images/angle_low_good.jpg)  
